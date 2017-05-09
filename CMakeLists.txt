@@ -13,4 +13,4 @@ include_directories(
   ${trimesh_SOURCE_DIR}
   )
 
-add_subdirectory(libs)
+add_subdirectory(lib)
